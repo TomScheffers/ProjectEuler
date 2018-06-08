@@ -1,8 +1,8 @@
 import time
 start = time.time()
 
-primes = [3]
-blocks = [9]
+primes = [2,3]
+blocks = [4,9]
 search_range = 100
 
 num = 5
